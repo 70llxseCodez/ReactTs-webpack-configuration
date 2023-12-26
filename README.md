@@ -7,8 +7,8 @@
 ### Get start:
 > npm run start
 
- To assemble:
+### To assemble:
  > npm run build
 
-To assemble in production:
+### To assemble in production:
  > npm run build:prod
