@@ -1,9 +1,9 @@
 # Assembling by webpack(React,Typescript)
 
 
-### Instalation:
+ Instalation:
 > npm install
 
-### Get start:
+ Get start:
 > npm run start
 
